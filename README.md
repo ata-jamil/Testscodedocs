@@ -1,2 +1,1 @@
-# test
-Skelleton repo for setting up the test
+# Just a test
